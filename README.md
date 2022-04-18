@@ -1,16 +1,18 @@
 # KarisViewTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/karis_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+> Various view specific methods for application I use.
 
 ## Installation
 
-Install the gem and add to the application's Gemfile by executing:
+ Add this line to your application's Gemfile:
 
-    $ bundle add karis_view_tool
+```ruby
+gem 'karis_view_tool'
+``` 
+And then execute:
+ $ bundle
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+Or install it yourself as:
 
     $ gem install karis_view_tool
 
