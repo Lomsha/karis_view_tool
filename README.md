@@ -10,7 +10,8 @@
 gem 'karis_view_tool'
 ``` 
 And then execute:
- $ bundle
+
+ $ bundle install
 
 Or install it yourself as:
 
